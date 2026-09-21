@@ -1,0 +1,12 @@
+build/
+bin/
+out/
+.vs/
+*.dir/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.user
+*.bin
+report.txt
